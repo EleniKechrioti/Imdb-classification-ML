@@ -6,7 +6,7 @@ This project was prepared within the framework of the Artificial Intelligence co
 The datased used is the [IMDb movie review sentiment classification dataset](https://keras.io/api/datasets/imdb/). 
 It consists of 25,000 movies reviews from IMDb, labeled by sentiment (positive/negative).
 
-The machine lerning algorithms we chose to implement are:
+The machine learning algorithms we chose to implement are:
 - Random Forest
 - Logistic Regression
 - Bernoulli Naive Bayes
@@ -32,8 +32,8 @@ In each notebook you will see the below:
 
 You can also find our report to all of the above in the main branch, featuring the diagrams mentioned.
 The report is written in 
-[greek](https://github.com/ChristosStamoulos/Imdb-classification-ML/blob/main/report_greek.pdf) and in 
-[english](https://github.com/ChristosStamoulos/Imdb-classification-ML/blob/main/report_english.pdf).
+[greek](https://github.com/EleniKechrioti/Imdb-classification-ML/blob/main/report_greek.pdf) and in 
+[english](https://github.com/EleniKechrioti/Imdb-classification-ML/blob/main/report_english.pdf).
 
 ## How to run:
   1. Clone the project.
@@ -44,5 +44,5 @@ The report is written in
 ## Collaborators 
 - [Eleni Kechrioti](https://github.com/EleniKechrioti)
 - [Maria Schoinaki](https://github.com/MariaSchoinaki)
-- [CHristos Stamoulos](https://github.com/ChristosStamoulos)
+- [Christos Stamoulos](https://github.com/ChristosStamoulos)
 
